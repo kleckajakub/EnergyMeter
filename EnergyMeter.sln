@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyMeter.Droid", "EnergyMeter.Droid\EnergyMeter.Droid.csproj", "{C9805044-31F7-4EE5-9AD6-5843B08C1E7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyMeter.Droid.Tests", "EnergyMeter.Droid.Tests\EnergyMeter.Droid.Tests.csproj", "{F2D71BAF-A6E5-4337-91CD-8340D9012CA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{C9805044-31F7-4EE5-9AD6-5843B08C1E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9805044-31F7-4EE5-9AD6-5843B08C1E7F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C9805044-31F7-4EE5-9AD6-5843B08C1E7F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F2D71BAF-A6E5-4337-91CD-8340D9012CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D71BAF-A6E5-4337-91CD-8340D9012CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D71BAF-A6E5-4337-91CD-8340D9012CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D71BAF-A6E5-4337-91CD-8340D9012CA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
