@@ -41,11 +41,157 @@ namespace EnergyMeter.Droid
 			}
 		}
 		
+		public partial class Color
+		{
+			
+			// aapt resource value: 0x7f040001
+			public const int black = 2130968577;
+			
+			// aapt resource value: 0x7f040009
+			public const int blue = 2130968585;
+			
+			// aapt resource value: 0x7f04000a
+			public const int blue_dark = 2130968586;
+			
+			// aapt resource value: 0x7f04000b
+			public const int blue_light = 2130968587;
+			
+			// aapt resource value: 0x7f04000c
+			public const int fuchsia = 2130968588;
+			
+			// aapt resource value: 0x7f04000e
+			public const int fuchsia_dark = 2130968590;
+			
+			// aapt resource value: 0x7f04000d
+			public const int fuchsia_darker = 2130968589;
+			
+			// aapt resource value: 0x7f040002
+			public const int gray = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int gray_dark = 2130968579;
+			
+			// aapt resource value: 0x7f040004
+			public const int gray_light = 2130968580;
+			
+			// aapt resource value: 0x7f04001a
+			public const int hint_color = 2130968602;
+			
+			// aapt resource value: 0x7f040012
+			public const int orange = 2130968594;
+			
+			// aapt resource value: 0x7f040013
+			public const int orange_dark = 2130968595;
+			
+			// aapt resource value: 0x7f040014
+			public const int orange_light = 2130968596;
+			
+			// aapt resource value: 0x7f040019
+			public const int pressed_list_view_item = 2130968601;
+			
+			// aapt resource value: 0x7f040005
+			public const int primary = 2130968581;
+			
+			// aapt resource value: 0x7f040006
+			public const int primary_dark = 2130968582;
+			
+			// aapt resource value: 0x7f040007
+			public const int primary_light = 2130968583;
+			
+			// aapt resource value: 0x7f040008
+			public const int primary_text_color = 2130968584;
+			
+			// aapt resource value: 0x7f040015
+			public const int red = 2130968597;
+			
+			// aapt resource value: 0x7f040016
+			public const int red_dark = 2130968598;
+			
+			// aapt resource value: 0x7f040017
+			public const int red_light = 2130968599;
+			
+			// aapt resource value: 0x7f040018
+			public const int separator = 2130968600;
+			
+			// aapt resource value: 0x7f040000
+			public const int white = 2130968576;
+			
+			// aapt resource value: 0x7f04000f
+			public const int yellow = 2130968591;
+			
+			// aapt resource value: 0x7f040011
+			public const int yellow_dark = 2130968593;
+			
+			// aapt resource value: 0x7f040010
+			public const int yellow_darker = 2130968592;
+			
+			static Color()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Color()
+			{
+			}
+		}
+		
+		public partial class Dimension
+		{
+			
+			// aapt resource value: 0x7f050000
+			public const int activity_horizontal_margin = 2131034112;
+			
+			// aapt resource value: 0x7f050001
+			public const int activity_vertical_margin = 2131034113;
+			
+			// aapt resource value: 0x7f050004
+			public const int big_textsize = 2131034116;
+			
+			// aapt resource value: 0x7f050003
+			public const int bigger_textsize = 2131034115;
+			
+			// aapt resource value: 0x7f050005
+			public const int radius = 2131034117;
+			
+			// aapt resource value: 0x7f050002
+			public const int standard_textsize = 2131034114;
+			
+			static Dimension()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Dimension()
+			{
+			}
+		}
+		
 		public partial class Drawable
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int button_blue = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int button_orange = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int button_primary = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int button_red = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int button_white = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int edittext_without_border = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int error_red = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int oval_ripple = 2130837511;
 			
 			static Drawable()
 			{
@@ -57,11 +203,33 @@ namespace EnergyMeter.Droid
 			}
 		}
 		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f080001
+			public const int btElectricityMeter = 2131230721;
+			
+			// aapt resource value: 0x7f080000
+			public const int btGasmeter = 2131230720;
+			
+			// aapt resource value: 0x7f080002
+			public const int btWaterMeter = 2131230722;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
 		public partial class Layout
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int Devices = 2130903040;
 			
 			static Layout()
 			{
@@ -76,11 +244,11 @@ namespace EnergyMeter.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
+			// aapt resource value: 0x7f060001
+			public const int ApplicationName = 2131099649;
 			
-			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			// aapt resource value: 0x7f060000
+			public const int Hello = 2131099648;
 			
 			static String()
 			{
@@ -88,6 +256,22 @@ namespace EnergyMeter.Droid
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f070000
+			public const int AppTheme = 2131165184;
+			
+			static Style()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Style()
 			{
 			}
 		}

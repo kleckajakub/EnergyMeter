@@ -1,0 +1,1 @@
+<ripple android:color="?android:colorControlHighlight" xmlns:android="http://schemas.android.com/apk/res/android"><item><shape android:shape="oval"><solid android:color="@color/red" /></shape></item></ripple>

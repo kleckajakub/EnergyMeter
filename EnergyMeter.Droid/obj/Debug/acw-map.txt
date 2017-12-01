@@ -1,0 +1,8 @@
+EnergyMeter.Droid.Screens.ActivityBase, EnergyMeter.Droid;md5fc936d0437bea9abef8ccd10ac2a7b55.ActivityBase
+EnergyMeter.Droid.Screens.ActivityBase, EnergyMeter.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fc936d0437bea9abef8ccd10ac2a7b55.ActivityBase
+EnergyMeter.Droid.Screens.ActivityBase;md5fc936d0437bea9abef8ccd10ac2a7b55.ActivityBase
+energymeter.droid.screens.ActivityBase;md5fc936d0437bea9abef8ccd10ac2a7b55.ActivityBase
+EnergyMeter.Droid.Screens.Devices.DevicesActivity, EnergyMeter.Droid;md555a96e4ccdb03d3b8629593536a54e0e.DevicesActivity
+EnergyMeter.Droid.Screens.Devices.DevicesActivity, EnergyMeter.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md555a96e4ccdb03d3b8629593536a54e0e.DevicesActivity
+EnergyMeter.Droid.Screens.Devices.DevicesActivity;md555a96e4ccdb03d3b8629593536a54e0e.DevicesActivity
+energymeter.droid.screens.devices.DevicesActivity;md555a96e4ccdb03d3b8629593536a54e0e.DevicesActivity

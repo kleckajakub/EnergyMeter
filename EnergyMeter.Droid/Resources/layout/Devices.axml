@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/btGasmeter"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/big_textsize"
+            android:textStyle="bold"
+            android:text="PLYNOMĚR"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_blue"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp" />
+        <Button
+            android:id="@+id/btElectricityMeter"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/big_textsize"
+            android:textStyle="bold"
+            android:text="ELEKTROMĚR"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_blue"
+            android:layout_margin="5dp" />
+        <Button
+            android:id="@+id/btWaterMeter"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/big_textsize"
+            android:textStyle="bold"
+            android:text="VODOMĚR"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_blue"
+            android:layout_margin="5dp" />
+    </LinearLayout>
+</RelativeLayout>
